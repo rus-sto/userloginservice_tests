@@ -1,0 +1,18 @@
+
+‚by.jrr.ruslan.userlogin.service.UserLoginService#blockUser(Lby/jrr/ruslan/userlogin/bean/User;)Lby/jrr/ruslan/userlogin/bean/User;ˆ
+~D:/MY JAVA/userloginservice_tests/user_login_service_tests/src/main/java/by/jrr/ruslan/userlogin/service/UserLoginService.java% %("1*è
+1ˆ
+~D:/MY JAVA/userloginservice_tests/user_login_service_tests/src/main/java/by/jrr/ruslan/userlogin/service/UserLoginService.java&	 &(œ™
+ˆ
+~D:/MY JAVA/userloginservice_tests/user_login_service_tests/src/main/java/by/jrr/ruslan/userlogin/service/UserLoginService.java&	 &($
+
+%0void"6by.jrr.ruslan.userlogin.bean.User#setUserIsBlocked(Z)V*+
+)
+user!by.jrr.ruslan.userlogin.bean.User*
+""2setUserIsBlocked(Z)"¸
+ˆ
+~D:/MY JAVA/userloginservice_tests/user_login_service_tests/src/main/java/by/jrr/ruslan/userlogin/service/UserLoginService.java' '(+
+)
+user!by.jrr.ruslan.userlogin.bean.User:)
+user!by.jrr.ruslan.userlogin.bean.UserB42
+0by.jrr.ruslan.userlogin.service.UserLoginService

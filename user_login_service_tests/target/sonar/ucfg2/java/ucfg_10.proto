@@ -1,0 +1,104 @@
+
+=by.jrr.ruslan.userlogin.bean.User#equals(Ljava/lang/Object;)Zy
+oD:/MY JAVA/userloginservice_tests/user_login_service_tests/src/main/java/by/jrr/ruslan/userlogin/bean/User.java5 5("startingBlock*Í
+2y
+oD:/MY JAVA/userloginservice_tests/user_login_service_tests/src/main/java/by/jrr/ruslan/userlogin/bean/User.java< <(Ñ
+Î
+y
+oD:/MY JAVA/userloginservice_tests/user_login_service_tests/src/main/java/by/jrr/ruslan/userlogin/bean/User.java< <('
+%3java.lang.String"__id*3*1#
+!by.jrr.ruslan.userlogin.bean.User"
+
+password×
+Ô
+y
+oD:/MY JAVA/userloginservice_tests/user_login_service_tests/src/main/java/by/jrr/ruslan/userlogin/bean/User.java<) <(6
+%4java.lang.String"__id*9*7
+)
+user!by.jrr.ruslan.userlogin.bean.User"
+
+password™
+–
+y
+oD:/MY JAVA/userloginservice_tests/user_login_service_tests/src/main/java/by/jrr/ruslan/userlogin/bean/User.java< <(7
+%5boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*"
+java.util.Objects*
+
+%3java.lang.String*
+
+%4java.lang.String*
+1*ˆ
+startingBlocky
+oD:/MY JAVA/userloginservice_tests/user_login_service_tests/src/main/java/by/jrr/ruslan/userlogin/bean/User.java5 5(#Á
+¾
+y
+oD:/MY JAVA/userloginservice_tests/user_login_service_tests/src/main/java/by/jrr/ruslan/userlogin/bean/User.java4 4(
+%6"
+__annotate*
+java.lang.Override*
+
+ojava.lang.Object«
+¨
+y
+oD:/MY JAVA/userloginservice_tests/user_login_service_tests/src/main/java/by/jrr/ruslan/userlogin/bean/User.java5! 5("
+ojava.lang.Object"__annotation*
+
+%6*
+
+7
+8
+10*Ê
+4y
+oD:/MY JAVA/userloginservice_tests/user_login_service_tests/src/main/java/by/jrr/ruslan/userlogin/bean/User.java; ;(Î
+Ë
+y
+oD:/MY JAVA/userloginservice_tests/user_login_service_tests/src/main/java/by/jrr/ruslan/userlogin/bean/User.java; ;($
+%0java.lang.String"__id*0*.#
+!by.jrr.ruslan.userlogin.bean.User"
+loginÔ
+Ñ
+y
+oD:/MY JAVA/userloginservice_tests/user_login_service_tests/src/main/java/by/jrr/ruslan/userlogin/bean/User.java;& ;(0
+%1java.lang.String"__id*6*4
+)
+user!by.jrr.ruslan.userlogin.bean.User"
+login™
+–
+y
+oD:/MY JAVA/userloginservice_tests/user_login_service_tests/src/main/java/by/jrr/ruslan/userlogin/bean/User.java; ;(1
+%2boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*"
+java.util.Objects*
+
+%0java.lang.String*
+
+%1java.lang.String*
+2
+1*Ô
+7y
+oD:/MY JAVA/userloginservice_tests/user_login_service_tests/src/main/java/by/jrr/ruslan/userlogin/bean/User.java8 8(È
+Å
+y
+oD:/MY JAVA/userloginservice_tests/user_login_service_tests/src/main/java/by/jrr/ruslan/userlogin/bean/User.java8 8()
+user!by.jrr.ruslan.userlogin.bean.User"__id*
+
+ojava.lang.Object*	
+2
+4
+1*„
+8y
+oD:/MY JAVA/userloginservice_tests/user_login_service_tests/src/main/java/by/jrr/ruslan/userlogin/bean/User.java7) 7(."ƒ
+y
+oD:/MY JAVA/userloginservice_tests/user_login_service_tests/src/main/java/by/jrr/ruslan/userlogin/bean/User.java7" 7(/
+""*…
+10y
+oD:/MY JAVA/userloginservice_tests/user_login_service_tests/src/main/java/by/jrr/ruslan/userlogin/bean/User.java6 6(""ƒ
+y
+oD:/MY JAVA/userloginservice_tests/user_login_service_tests/src/main/java/by/jrr/ruslan/userlogin/bean/User.java6 6(#
+""*„
+1y
+oD:/MY JAVA/userloginservice_tests/user_login_service_tests/src/main/java/by/jrr/ruslan/userlogin/bean/User.java9 <(8"ƒ
+y
+oD:/MY JAVA/userloginservice_tests/user_login_service_tests/src/main/java/by/jrr/ruslan/userlogin/bean/User.java9 <(8
+"":
+ojava.lang.ObjectB%#
+!by.jrr.ruslan.userlogin.bean.User

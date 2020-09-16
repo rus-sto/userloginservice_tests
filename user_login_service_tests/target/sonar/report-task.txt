@@ -1,0 +1,7 @@
+organization=rus-sto
+projectKey=rus-sto_Jis4RUS
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.11719
+dashboardUrl=https://sonarcloud.io/dashboard?id=rus-sto_Jis4RUS
+ceTaskId=AXRcyexT9WAKvHtxVuZX
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXRcyexT9WAKvHtxVuZX

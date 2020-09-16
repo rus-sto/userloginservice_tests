@@ -53,37 +53,37 @@ public class UserTest {
 
     @Test
     public void testEqualsTrue() {
-        User user1 = new User();
-        user1.setNumberEntryAttemptLeft(2);
-        user1.setPassword("123");
-        user1.setLogin("Mama");
-        user1.setUserIsBlocked(false);
+        User user1 = new User("Mama","123");
+//        user1.setNumberEntryAttemptLeft(2);
+//        user1.setPassword("123");
+//        user1.setLogin("Mama");
+//        user1.setUserIsBlocked(false);
 
-        User user2 = new User();
-        user2.setNumberEntryAttemptLeft(2);
-        user2.setPassword("123");
-        user2.setLogin("Mama");
-        user2.setUserIsBlocked(false);
+        User user2 = new User("Mama","123");
+//        user2.setNumberEntryAttemptLeft(2);
+//        user2.setPassword("123");
+//        user2.setLogin("Mama");
+//        user2.setUserIsBlocked(false);
 
         boolean expected = true;
-        user1.equals(user2);
+        boolean actual = user1.equals(user2);
     }
     @Test
     public void testEqualsFalse() {
-        User user1 = new User();
-        user1.setNumberEntryAttemptLeft(2);
-        user1.setPassword("123");
-        user1.setLogin("Mama");
-        user1.setUserIsBlocked(false);
+        User user1 = new User("Mama","123");
+//        user1.setNumberEntryAttemptLeft(2);
+//        user1.setPassword("123");
+//        user1.setLogin("Mama");
+//        user1.setUserIsBlocked(false);
 
-        User user2 = new User();
-        user2.setNumberEntryAttemptLeft(2);
-        user2.setPassword("123");
-        user2.setLogin("Mam");
-        user2.setUserIsBlocked(false);
+        User user2 = new User("Mama","1234");
+//        user2.setNumberEntryAttemptLeft(2);
+//        user2.setPassword("123");
+//        user2.setLogin("Mam");
+//        user2.setUserIsBlocked(false);
 
         boolean expected = false;
-        user1.equals(user2);
+        boolean actual = user1.equals(user2);
     }
 
     @Test

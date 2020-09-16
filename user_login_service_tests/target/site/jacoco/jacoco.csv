@@ -1,0 +1,4 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+user_login_service_tests,by.jrr.ruslan.userlogin.service,UserLoginService,0,67,1,7,0,19,1,11,0,8
+user_login_service_tests,by.jrr.ruslan.userlogin,App,4,0,0,0,2,0,2,0,2,0
+user_login_service_tests,by.jrr.ruslan.userlogin.bean,User,4,132,5,7,0,26,5,14,0,13

@@ -9,6 +9,12 @@ public class User {
     private int numberEntryAttemptLeft;
 
     public User() {
+//        no arguments constructor
+    }
+
+    public User(String login, String password) {
+        this.login = login;
+        this.password = password;
     }
 
     public String getLogin() {
